@@ -10,7 +10,7 @@ Iv been learning code for 6 year, starting in Java, then Javascript, CSS, Html, 
 * 🖥️  See my portfolio at [My Profile](http://https://james-brown-portfolio-18bbec.webflow.io/)
 * ✉️  You can contact me at [2002jamesbrown@gmail.com](mailto:2002jamesbrown@gmail.com)
 * 🚀  I'm currently working on [SAAS Marketing Page](http://https://github.com/James-Frown?tab=overview&from=2022-12-01&to=2022-12-31)
-* 🧠  I'm learning HTML, CSS, Tailwind, Javascript, React, Typescript, Node
+* 🧠  I'm learning HTML, CSS, Tailwind, Javascript, React, Typescript, Node, React-Router
 * 🤝  I'm open to collaborating on fun and engaging projects
 * ⚡  I love using Blockchain & Crypto-currencies, and i belive in the great Financial De-Fi
 
