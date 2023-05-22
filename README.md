@@ -12,7 +12,7 @@ I've been learning to code for the last 6 years, starting in Java, then Javascri
 * 🚀  I'm currently working on [SAAS Marketing Page](http://https://github.com/James-Frown?tab=overview&from=2022-12-01&to=2022-12-31)
 * 🧠  I'm learning HTML, CSS, Tailwind, Javascript, React, Typescript, Node, React-Router
 * 🤝  I'm open to collaborating on fun and engaging projects
-* ⚡  I love using Blockchain & Crypto-currencies, and i belive in the great Financial De-Fi
+* ⚡  I love using Blockchain & Crypto-currencies, and i believe in the great Financial De-Fi
 
 ### Skills
 
