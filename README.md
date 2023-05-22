@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Designer/Developer
 -------------------------
 
-I've been learning code for 6 year, starting in Java, then Javascript, CSS, Html, React, Firebase, Netlify and still learning more...
+I've been learning to code for the last 6 years, starting in Java, then Javascript, CSS, Html, React, Firebase, Netlify and still learning more...
 
 * 🌍  I'm based in Cape Town
 * 🖥️  See my portfolio at [My Profile](http://https://james-brown-portfolio-18bbec.webflow.io/)
