@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I'm on the lookout for **Internships**
 
-- 🌱 I’m currently learning **TailwindCSS, Firebase & React-Router**
+- 🌱 I’m currently learning **TailwindCSS, Firebase, React-Router & NextJS**
 
 - 🤝 I’m currently working on **ChoreWise**
 
