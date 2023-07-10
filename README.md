@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🌍  I'm based in **Cape Town**
 
-- 🔭 I'm on the lookout for **Internships**
+- 🔭 I'm Participating in my first **Internship** @SovTech CPT
 
-- 🌱 I’m currently learning **TailwindCSS, Firebase, React-Router, NextJS, Bootstrap & Typescript**
+- 🌱 I’m currently learning **TailwindCSS, Firebase, React-Router, NextJS, Bootstrap, Typescript & React Native**
 
 - 🤝 I’m currently working on **ChoreWise**
 
