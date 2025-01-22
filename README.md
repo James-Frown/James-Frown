@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🌍  I'm based in **Cape Town**
 
-- 🌱 I’m currently learning **TailwindCSS, Firebase, React-Router, NextJS, Bootstrap, Typescript & React Native**
+- 🌱 I’m currently learning **TailwindCSS, Firebase, React-Router, NextJS, Bootstrap, Typescript**
 
-- 🤝 I’m currently working on **ChoreWise**
+- 🤝 I’m currently working on **Movez**
 
 - 👨‍💻 All of my projects are available at [https://james-frown.netlify.app/](https://james-frown.netlify.app/)
 
 - 📝 I regularly Post on LinkedIn [https://www.linkedin.com/in/james-brown-308233171/](https://www.linkedin.com/in/james-brown-308233171/)
 
-- 💬 Ask me about **react, vite & javascript**
+- 💬 Ask me about **react, next & javascript**
 
 - 📫 How to reach me **2002jamesbrown@gmail.com**
 
