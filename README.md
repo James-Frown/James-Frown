@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 💬 Ask me about **React, Next, Python and Django**
 
-- 📫 How to reach me **2002jamesbrown@gmail.com** or **(+1) 970 452 1711**
+- 📫 How to reach me **2002jamesbrown@gmail.com** or **(+27) 78 838 2692**
 
 - 📄 Know about my experiences [https://james-frown.com/about](https://james-frown.com/about)
 
